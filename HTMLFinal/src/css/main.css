@@ -1,0 +1,131 @@
+						/*tout le site*/
+.heading-site {
+	text-align: center;
+	font-family:'Montserrat', sans-serif;}
+
+.COLORED {
+	height: 400px;
+	width: 100%;
+	background-color: white;
+	padding: 10px;
+	text-align: center;}
+
+
+					/*header*/
+.header {
+		width: 100%;
+		margin-left: 0;
+		margin-right: 10;
+		margin-top: 50px;
+		height: 70px;
+		line-height: 70%;
+		background-color: rgba(0, 0, 0, 0);
+		position: fixed;
+		top: 0;
+		z-index: 999;}
+
+.header .header-logo {
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+	float: left;
+	margin-left: 40px;}
+
+.header .header-menu {
+	float: right;
+	margin-right: 30px;}
+
+.header .header-menu a {
+	margin-right: 15px;
+	color: whitesmoke;}
+
+.header .header-menu a:hover {
+	color: black;}
+					
+					/*compteur*/
+.level {
+	padding:50px;
+	background-color: lightyellow;}
+
+
+					/*/BANNER*/
+.banner {
+	margin-top:-35px;}
+
+.banner .banner-image { 
+	position: relative;}
+
+.banner .banner-content {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 30px;}
+
+.banner .banner-content h1 {margin-top: 70px; color: white;}
+.banner .banner-content h2 { color: white;}
+.banner .banner-content h3 {color: white;margin: 140px;}
+
+					/*about*/
+.about .about-single-element .icon{
+		font-size: 60px;
+		text-align: center;}
+.about .about-single-element {
+		text-align: center;}
+.about .about-single-element p {
+		text-align: left;
+		margin-top: 20px;}
+
+					/*Box*/
+.box {
+	text-align: center;
+	font-weight: bold;}
+
+
+					/*Tiles page index*/
+.tile .is-primary {
+	background-color: #550445 ;}
+
+.tile .is-warning {
+	background-color: #8b3d78;}
+
+.tile .is-info {
+	background-color: #c96588;}
+
+.tile .is-danger {
+	background-color: #c954a2;}
+
+.tile .is-success {
+	background-color: #a32048;}
+
+
+.subtitle-1 {
+	font-style: italic;}
+
+
+					/*Tiles page index*/
+.tile .premiere {
+	background-color: #E8EDE7;}
+
+.tile .deuxieme {
+	background-color: #c9dce2;}
+
+.tile .troisieme {
+	background-color: #d3d8de;}
+
+.tile .image1 {
+	background-color: #edf4fe;}
+
+.tile .image2 {
+	background-color: #c1e3ff;}
+
+					/*footer*/
+
+.footer .footer-informations {
+	text-align: center;
+	margin-top: 30px;}
+
+.footer .footer-informations ul {
+	padding: 0;}
+
+.footer .footer-informations ul li {
+	display: inline-block;
+	list-style-type: none;}
